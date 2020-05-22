@@ -22,3 +22,5 @@ const customTheme = StyleSheet.create({
     backgroundColor: 'greenyellow',
   },
 });
+
+export default App;
